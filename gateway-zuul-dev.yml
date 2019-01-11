@@ -53,3 +53,5 @@ hystrix:
             timeoutInMilliseconds: 60000
 cron:
   black-ip: 0 0/5 * * * ?
+server:
+  port: 8089
